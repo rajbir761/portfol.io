@@ -240,6 +240,20 @@ const Projects = props => {
 
 
 
+    React.createElement("div", { className: "projects-wrapper" }, /*#__PURE__*/
+    React.createElement(Project, {
+      title: " Flow through Fan Blades.",
+      img: "https://i.imgur.com/hBvsARq.jpg",
+      tech: " ",
+      link: "https://github.com/rajbir761/Flow-through-Fan",
+      repo: "https://github.com/rajbir761/Flow-through-Fan" }, /*#__PURE__*/
+
+    React.createElement("small", null, "Built using Solidworks and ANSYS Fluent"), /*#__PURE__*/
+    React.createElement("p", null, "This is a study wherein we demonstrate the flow of fluid through a curved duct. Analysing flow patterns and flow parameters."))))));
+
+
+
+
 
 
 
