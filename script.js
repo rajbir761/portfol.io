@@ -240,7 +240,7 @@ const Projects = props => {
 
 
 
-    React.createElement("div", { className: "projects-wrapper" }, /*#__PURE__*/
+
     React.createElement(Project, {
       title: " Flow through Fan Blades.",
       img: "https://i.imgur.com/hBvsARq.jpg",
@@ -253,7 +253,6 @@ const Projects = props => {
 
 
 
-  React.createElement("div", { className: "projects-wrapper" }, /*#__PURE__*/
     React.createElement(Project, {
       title: " Flow through Centrifugal Pump.",
       img: "https://i.imgur.com/gXId1eO.jpg",
